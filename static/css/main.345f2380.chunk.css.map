@@ -1,0 +1,1 @@
+{"version":3,"sources":["App.css"],"names":[],"mappings":"AAAA,SACI,YAAa,CACb,kBACJ,CAEA,UACI,aAAc,CACd,cAAe,CACf,cACJ","file":"main.345f2380.chunk.css","sourcesContent":[".counter {\r\n    display: flex;\r\n    align-items: center;\r\n}\r\n\r\n.fa-trash {\r\n    color: darkred;\r\n    font-size: 25px;\r\n    cursor: pointer;\r\n}"]}
