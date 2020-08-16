@@ -1,8 +1,12 @@
 
 
-In this project, I finally decided to step away from storing data in a component's local state and get my hands dirty with Redux. I thought it was more difficult, when in reality, it was nothing more than learning MapState, MapDispatch, Action and Reducer concepts. You may view the demo of the counter app below:
+In this project, I finally decided to step away from storing data in a component's local state and get my hands dirty with Redux. I thought it was more difficult, when in reality, it was nothing more than learning MapState, MapDispatch, Action and Reducer concepts. 
 
-[Counter App with Reudux](https://letsget.github.io/counters-with-redux/)
+Redux gives you a nice way of accessing your state from any components and pass it to any component that requires it, including actions - functions that need to update the state. Rather than do props drilling, I am now opening myself to Redux and I am going to use it in every project of mine.
+
+You may view the demo of the counter app below:
+
+[Counter App with Redux](https://letsget.github.io/counters-with-redux/)
 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
