@@ -1,3 +1,9 @@
+
+
+In this project, I finally decided to step away from storing data in a component's local state and get my hands dirty with Redux. I thought it was more difficult, when in reality, it was nothing more than learning MapState, MapDispatch, Action and Reducer concepts. You may view the demo of the counter app below:
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
