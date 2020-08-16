@@ -1,6 +1,7 @@
 
 
-# In this project, I finally decided to step away from storing data in a component's local state and get my hands dirty with Redux. I thought it was more difficult, when in reality, it was nothing more than learning MapState, MapDispatch, Action and Reducer concepts. 
+# Redux
+In this project, I finally decided to step away from storing data in a component's local state and get my hands dirty with Redux. I thought it was more difficult, when in reality, it was nothing more than learning MapState, MapDispatch, Action and Reducer concepts. 
 
 Redux gives you a nice way of accessing your state from any component and pass it to any component that requires it, including actions - functions that need to update the state. Rather than do props drilling. I just got my feet wet using Redux, but I am definitely going all in, and I am going to use Redux in every project of mine irrespective of its complexity. I believe that any project tends to grow and become more complex with time, with this in mind, it's better to start using Redux from the start rather than have to re-write your entire logic later.
 
